@@ -1,4 +1,4 @@
-# Responsive Animated and Colourful Portfolio
+# Dynamic Individual Portfolio
  
 <figure>
   <figcaption>Website View (on desktop screen)</figcaption>
@@ -7,5 +7,5 @@
 
 <figure>
   <figcaption>Screenshot 1 (on desktop screen)</figcaption>
-  <img src="images/Screenshot_1.png" alt="Screenshot 1" width="700">
+  <img src="![Alt text](<Screenshot 2023-10-25 074812-1.png>)" alt="Screenshot 1" width="700">
 </figure>
